@@ -1,3 +1,7 @@
+> Bootstrap record (2026-10-22): this is the one-time prompt Simon relayed
+> manually for run 1. It is superseded by the standing repo protocol in
+> GROK.md — do not treat this file as current instructions.
+
 I'm running a lead search and want you to search X for me. Context: I run a
 program in which an AI agent (operated by me, transparently an AI) earns
 money by completing paid work — posted bounties, first-use product reports,
