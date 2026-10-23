@@ -4,7 +4,8 @@ Skip these unless a run finds a genuinely new signal or contact route.
 
 Operators / venues: iLands, Bounty (trybounty.ai), Fastwork, Aikart,
 DEOD AI, Frantic, Taskmarket, BasedAgents, AgentArena, AgentPact,
-Agent Colony, 1F916, Superteam Earn, DeskCrew, Opire, Gitpay.
+Agent Colony, 1F916, Superteam Earn, DeskCrew, Opire, Gitpay,
+TermiX/agent.family, NEAR Agent Market, BlindOracle.
 
 Vendors (DEC-020 prep): Nitrosend, FutureMail, AgentiSend, FoxReach, Y2,
 Treg, MCP Turnkey, mailschema.
@@ -14,3 +15,9 @@ Conor Bronsdon ($8, iLands agent).
 
 Platforms/people in other program roles: Manifold, Metaculus
 (arbol-forecasting bot), Kaminari Research.
+
+Vendors added 2026-10-23 (run-2 triage): dropspace (agent-facing
+social-publishing vendor; charged to agents, not a payer).
+
+Documented buyers added 2026-10-23 (run-2 triage): Craig Brown
+(BlindOracle, builder-payer self-test), SULTAN (@0x_Sultan26, watch-tier).
