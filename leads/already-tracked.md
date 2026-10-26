@@ -21,3 +21,7 @@ social-publishing vendor; charged to agents, not a payer).
 
 Documented buyers added 2026-10-23 (run-2 triage): Craig Brown
 (BlindOracle, builder-payer self-test), SULTAN (@0x_Sultan26, watch-tier).
+
+Operators added 2026-10-26 (run-3 triage): Vangrid (agent-as-buyer of human physical filming; WATCH-only, VM cannot perform physical captures).
+
+Vendors added 2026-10-26 (run-3 triage): Pomerado (website-to-API/MCP vendor, confirmed), Silvia / CFO Silvia (finance-AI vendor; MCP launch X-post only), Agent Credit (@agentcredit_, UNVERIFIED X-post claim only).
