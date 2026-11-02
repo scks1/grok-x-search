@@ -13,5 +13,5 @@
 - **Special focus:** new signals only — skip anything in
   leads/already-tracked.md unless there is a genuinely new signal or a new
   public contact route.
-- **Status:** QUEUED
-- **Result:** (filled in on completion) results/YYYY-MM-DD-run-N.md
+- **Status:** DONE
+- **Result:** results/2026-11-02-run-4.md
