@@ -16,5 +16,5 @@
   new public contact route. For bucket 1, include the venue and the order
   or job id (or a link to the settled record) whenever the post gives one;
   without it a payment cannot be checked.
-- **Status:** QUEUED
-- **Result:** (filled in on completion) results/YYYY-MM-DD-run-N.md
+- **Status:** DONE
+- **Result:** results/2026-11-09-run-5.md
